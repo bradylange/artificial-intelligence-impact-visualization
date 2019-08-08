@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555902508961.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3141549850",
+    "id" : "DD50946F",
+    "lastKnownWriteTime" : 1557506169,
+    "last_content_update" : 1557506169,
+    "path" : "~/R/Workspace/artificial-intelligence-research/ai-benefits-visual.R",
+    "project_path" : "ai-benefits-visual.R",
+    "properties" : {
+        "cursorPosition" : "40,0",
+        "scrollLine" : "3"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
